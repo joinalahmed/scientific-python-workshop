@@ -60,7 +60,7 @@ Perhaps the easiest way to get a feature-complete version of Python on your syst
 
 Be sure to download the Python 3.5 installer, by following the **Python 3.5 link**
 
-![get Python 3](http://fonnesbeck-dropshare.s3.amazonaws.com/Screen-Shot-2016-03-18-at-3.24.26-PM.png)
+![get Python 3](http://fonnesbeck-dropshare.s3.amazonaws.com/687474703a2f2f666f6e6e65736265636b2d64726f7073686172652e73332e616d617a6f6e6177732e636f6d2f53637265656e2d53686f742d323031362d30332d31382d61742d332e32342e32362d504d2e706e67.png)
 
 To install the packages required for this course, the easiest and safest way is to create a suitable environment by typing the following in your terminal:
 
