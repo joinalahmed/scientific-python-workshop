@@ -2,7 +2,9 @@
 
 ## Schedule
 
-| Day 1 | Topic | Packages |
+### Day 1
+
+| Time | Topic | Packages |
 |-------|-------|----------|
 |9:00-10:30|Introduction to Python|          |
 |10:30-10:45|Break|          |
@@ -12,7 +14,9 @@
 |14:45-15:00|Break|          |
 |15:00-16:30|Plotting in Python       |Matplotlib, Bokeh|
 
-| Day 2 | Topic | Packages |
+### Day 2
+
+| Time | Topic | Packages |
 |-------|-------|----------|
 |9:00-10:30|Introduction to pandas|pandas|
 |10:30-10:45|Break|          |
@@ -22,7 +26,9 @@
 |14:45-15:00|Break|          |
 |15:00-16:30|Python for Data Analysis|pandas, NumPy, SciPy|
 
-| Day 3 | Machine Learning Option | Bayesian Modeling Option |
+### Day 3
+
+| Time | Machine Learning Option | Bayesian Modeling Option |
 |-------|-------|----------|
 |9:00-10:30|Supervised and Unsupervised Learning|Bayesian Inference|
 |10:30-10:45|Break|          |
@@ -34,7 +40,7 @@
 
 This workshop is taught using Python 3 and the "Scientific Stack", a set of core scientific computing packages written and maintained by various third parties.
 
-## Python
+### Python
 
 The first step is to install Python on your computer. I will be teaching this course based on **Python 3.5**. If Python 3 is not on your system, you can either download an installer from [Python.org](http://python.org) or install a third-party distribution (see below). I recommend the latter, since these distributions are enhanced, containing most or all of the packages required for the course.
 
