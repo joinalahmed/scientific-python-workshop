@@ -6,33 +6,33 @@
 
 | Time | Topic | Packages |
 |-------|-------|----------|
-|9:00-10:30|Introduction to Python|          |
-|10:30-10:45|Break|          |
-|10:45-12:15|IPython for Scientists|IPython|
-|12:15-13:15|Lunch|          |
-|13:15-14:45|Scientific Python Programming|NumPy, SciPy|
-|14:45-15:00|Break|          |
-|15:00-16:30|Plotting in Python       |Matplotlib, Bokeh|
+|9:00-10:30|**Introduction to Python**|          |
+|10:30-10:45|*Break*|          |
+|10:45-12:15|**IPython and Jupyter**|IPython, Jupyter|
+|12:15-13:15|*Lunch*|          |
+|13:15-14:45|**Scientific Python Programming**|NumPy, SciPy|
+|14:45-15:00|*Break*|          |
+|15:00-16:30|**Plotting in Python**       |Matplotlib, Bokeh|
 
 ### Day 2
 
 | Time | Topic | Packages |
 |-------|-------|----------|
-|9:00-10:30|Introduction to pandas|pandas|
-|10:30-10:45|Break|          |
-|10:45-12:15|Data Wrangling with pandas (I)|pandas|
-|12:15-13:15|Lunch|          |
-|13:15-14:45|Data Wrangling with pandas (II)|pandas|
-|14:45-15:00|Break|          |
-|15:00-16:30|Python for Data Analysis|pandas, NumPy, SciPy|
+|9:00-10:30|**Introduction to pandas**|pandas|
+|10:30-10:45|*Break*|          |
+|10:45-12:15|**Data Wrangling with pandas (I)**|pandas|
+|12:15-13:15|*Lunch*|          |
+|13:15-14:45|**Data Wrangling with pandas (II)**|pandas|
+|14:45-15:00|*Break*|          |
+|15:00-16:30|**Python for Data Analysis**|pandas, NumPy, SciPy|
 
 ### Day 3
 
 | Time | Machine Learning Option | Bayesian Modeling Option |
 |-------|-------|----------|
-|9:00-10:30|Supervised and Unsupervised Learning|Bayesian Inference|
-|10:30-10:45|Break|          |
-|10:45-12:15|Introduction to `scikit-learn`|Markov chain Monte Carlo|
+|9:00-10:30|**Supervised and Unsupervised Learning**|Bayesian Inference|
+|10:30-10:45|*Break*|          |
+|10:45-12:15|**Introduction to `scikit-learn`**|Markov chain Monte Carlo|
 
 
    
@@ -64,7 +64,7 @@ Be sure to download the Python 3.5 installer, by following the **Python 3.5 link
 
 To install the packages required for this course, the easiest and safest way is to create a suitable environment by typing the following in your terminal:
 
-    conda create -n pyaims python=3 numpy scipy jupyter pandas matplotlib scikit-learn pymc bokeh seaborn
+    conda create -n pyaims python=3 sympy numpy scipy jupyter ipyparallel pandas matplotlib scikit-learn pymc bokeh seaborn rpy2
 
 This creates a self-contained Python environment in your home directory (called `pyaims`) that includes all the packages you will need, along with their dependencies. To use this environment at any time, type:
 
