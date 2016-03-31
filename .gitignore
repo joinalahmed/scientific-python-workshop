@@ -1,0 +1,7 @@
+notebooks/.ipynb_checkpoints/
+*.npy
+*.npz
+*.out
+notebooks/*.png
+notebooks/*.svg
+notebooks/*.html
