@@ -1,5 +1,7 @@
 # AIMS Scientific Python Workshop
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/fonnesbeck/scientific-python-workshop)
+
 ## Schedule
 
 ### Day 1
@@ -74,6 +76,8 @@ To exit the `pyaims` environment, you can switch it off via:
 
     source deactivate
     
+Alternatively, if you would rather not set up a Python environment on your machine, you may run the course materials using `binder` by clicking on the **launch binder** button at the top of this page.
+
 ## Downloading Course Materials
 
 The final step is accessing the course materials. **If you are familiar with Git**, you can simply clone this repository:
