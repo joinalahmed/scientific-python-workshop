@@ -1,0 +1,13 @@
+name: aims
+
+dependencies:
+  - sympy
+  - numpy
+  - scipy
+  - jupyter
+  - ipyparallel
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - patsy
