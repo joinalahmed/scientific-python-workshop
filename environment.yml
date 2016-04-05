@@ -1,6 +1,7 @@
 name: aims
 
 dependencies:
+  - python=3.5
   - sympy
   - numpy
   - scipy
