@@ -66,7 +66,7 @@ Be sure to download the Python 3.5 installer, by following the **Python 3.5 link
 
 To install the packages required for this course, the easiest and safest way is to create a suitable environment by typing the following in your terminal:
 
-    conda create -n pyaims python=3 sympy numpy scipy jupyter ipyparallel pandas matplotlib scikit-learn seaborn patsy rpy2
+    conda create -n pyaims python=3 sympy numpy scipy jupyter ipyparallel pandas matplotlib scikit-learn seaborn patsy pymc
 
 This creates a self-contained Python environment in your home directory (called `pyaims`) that includes all the packages you will need, along with their dependencies. To use this environment at any time, type:
 
