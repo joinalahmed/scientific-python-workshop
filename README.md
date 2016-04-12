@@ -28,13 +28,13 @@
 |14:45-15:00|*Break*|          |
 |15:00-16:30|**Python for Data Analysis**|pandas, NumPy, SciPy|
 
-### Day 3
+<!-- ### Day 3
 
 | Time | Machine Learning Option | Bayesian Modeling Option |
 |-------|-------|----------|
 |9:00-10:30|**Supervised and Unsupervised Learning**|Bayesian Inference|
 |10:30-10:45|*Break*|          |
-|10:45-12:15|**Introduction to `scikit-learn`**|Markov chain Monte Carlo|
+|10:45-12:15|**Introduction to `scikit-learn`**|Markov chain Monte Carlo| -->
 
 
    
